@@ -4,8 +4,8 @@
 Everything about me on my site (WIP): https://yug.is-a.dev/
 
 # 🌐 Socials:
-[![Discord](https://img.shields.io/badge/discord-%23000000.svg?style=for-the-badge&logo=Discord)](https://discord.com/users/782101392960782356)
-[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=Instagram)](https://instagram.com/name_yug)
+[![Discord](https://img.shields.io/badge/discord-%23000000.svg?style=for-the-badge&logo=discord)](https://discord.com/users/782101392960782356)
+[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram)](https://instagram.com/name_yug)
 
 # 💻 Tech Stack:
 ### Backend
